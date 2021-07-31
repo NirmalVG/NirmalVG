@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Front-end Development project
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning MERN stack development
 - 👯 I’m looking to collaborate on any Front-end development project
 - 🤔 I’m looking for help with Docker deployment
 - 💬 Ask me about Front-end development
