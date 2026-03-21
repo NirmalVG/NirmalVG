@@ -1,23 +1,21 @@
-# Nirmal V G
+## Hey, I'm Nirmal 👋
 
-### Hi there 👋
+Software engineer specializing in React.js, Next.js, and TypeScript.
+I build fast, scalable web interfaces — and increasingly, AI-powered products.
 
-- 🔭 I’m currently working on Front-end Development project
-- 🌱 I’m currently learning MERN stack development
-- 👯 I’m looking to collaborate on any Front-end development project
-- 💬 Ask me about Front-end development
-- 📫 How to reach me: Contact me directly on this mail [nirmalvg97@gmail.com](nirmalvg97@gmail.com)
-<!--
-**NirmalVG/NirmalVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔨 What I'm building
+- **CodeMentor AI** — GitHub-integrated code review assistant  
+  (Next.js · Supabase/pgvector · Gemini 2.0 Flash · RAG pipeline)
+- **Skin Lens** — AI cosmetic ingredient analyzer  
+  (React · FastAPI · Gemini Vision · MySQL)
 
-Here are some ideas to get you started:
+### 🛠 Tech I work with
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Zustand`  
+`Node.js` `FastAPI` `Python` `PostgreSQL` `Supabase`  
+`AWS` `Vercel` `Cursor AI` `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Currently
+- 🎓 BCA @ Amity University Online
+- 💼 Open to React.js / Next.js roles
+
+📫 nirmalvg97@gmail.com · [LinkedIn](https://linkedin.com/in/nirmal-v-g/)
