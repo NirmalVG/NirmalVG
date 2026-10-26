@@ -50,6 +50,7 @@ A web app that analyzes cosmetic product ingredients and presents ingredient inf
   - Contributed to client projects across healthcare, real estate, construction, and retail.
   - Implemented multilingual support, SEO improvements, API integrations, and an EMI calculator.
   - Used SWR and reusable React components to build maintainable user experiences.
+  
 🧰 Tech Stack
 Frontend
 <p>
